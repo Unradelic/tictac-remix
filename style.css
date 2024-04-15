@@ -113,7 +113,7 @@ span.small-info {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 20vw;
+  font-size: 15vw;
   color: red;
   background-color: #c1ad8cb8;
   pointer-events: none;
