@@ -154,11 +154,13 @@ span.small-info {
 .cell.X:before {
 	content: "X";
 	position: absolute;
+	pointer-events: none;
 }
 
 .cell.O:before {
 	content: "O";
 	position: absolute;
+	pointer-events: none;
 }
 
 .cell:after {
